@@ -1,9 +1,13 @@
 var saveButton = $(".saveButton");
 var currentDay = $("#currentDay");
 var timeBlock = $(".time-block");
+var currentTime = $("#currentTime")
 
 // current day
 currentDay.text(moment().format("dddd MMMM Do YYYY"));
+
+//current time
+currentTime.text(moment().format("HH:mm:ss"));
 
 // past, present, or future colored blocks
 function blockColor() {
