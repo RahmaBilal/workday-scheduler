@@ -4,7 +4,7 @@ var timeBlock = $(".time-block");
 var currentTime = $("#currentTime")
 
 // current day
-currentDay.text(moment().format("dddd MMMM Do YYYY"));
+currentDay.text(moment().format("MMMM Do YYYY"));
 
 //current time
 currentTime.text(moment().format("HH:mm:ss"));
