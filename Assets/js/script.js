@@ -32,6 +32,11 @@ saveButton.on("click", function () {
   localStorage.setItem(time, plan);
 });
 
+
+// saveButton.onclick(function () {
+
+// })
+
 function planner() {
   $(".hour").each(function () {
     var currentHour = $(this).text();
