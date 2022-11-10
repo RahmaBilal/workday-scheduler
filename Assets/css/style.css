@@ -17,7 +17,7 @@ textarea{
 .column-10 {
   border:1px solid #000000;
   color:#000000;
-  font-size:10px;
+  font-size:20px;
   display:block;
   float:left;
   width:90%;
@@ -41,7 +41,8 @@ textarea{
 
 .time-block{
   text-align: center;
-  border-radius: 15px;
+  border-radius: 15px solid;
+  border: #000000 solid;
 }
 
 .row {
@@ -90,6 +91,10 @@ textarea{
   width: 80px;
   height: 80px;
   border: 3px solid
+}
+
+.container {
+  display: block;
 }
 
 
