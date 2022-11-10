@@ -34,12 +34,14 @@ textarea{
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid #321603;;
+  
 }
 
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px;
+  padding-left: 3%;
 }
 
 /* .past {
@@ -73,10 +75,9 @@ textarea{
 }
 .saveBtn {
   border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
   background-color: #000000;
   color: white;
+  width: 100px;
 }
 
 .saveBtn i:hover {
@@ -101,7 +102,7 @@ textarea{
   }
 
   textarea {
-    min-height: 85px;
+    min-height: 70px;
     border: 0;
   }
 }
