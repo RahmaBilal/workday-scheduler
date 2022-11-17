@@ -25,6 +25,7 @@ function blockColor() {
   });
 }
 
+
 // saves to local storage
 saveButton.on("click", function () {
   var time = $(this).siblings(".hour").text();
@@ -50,3 +51,4 @@ function planner() {
 
 blockColor();
 planner();
+

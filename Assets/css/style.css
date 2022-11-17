@@ -14,6 +14,10 @@ textarea{
   padding: 10px;
 }
 
+h1 {
+  text-decoration: underline;
+}
+
 .column-10 {
   border:1px solid #000000;
   color:#000000;
@@ -43,6 +47,7 @@ textarea{
   text-align: center;
   border-radius: 15px solid;
   border: #000000 solid;
+  flex-wrap: wrap;
 }
 
 .row {
@@ -60,17 +65,17 @@ textarea{
 }
 
 .past {
-  background-color: #94d2bd;
+  background-color: #94d2bdb3;
   color: white;
 }
 
 .present {
-  background-color: #6bdadc;
+  background-color: #6bdadc8a;
   color: white;
 }
 
 .future {
-  background-color: #649ba6;
+  background-color: #649ba68b;
   color: white;
 }
 /* .saveBtn {
@@ -97,6 +102,15 @@ textarea{
   display: block;
 }
 
+
+.time23pm {
+  text-align: center;
+  border-radius: 15px solid;
+  border: #000000 solid;
+  flex-wrap: wrap;
+  background-color: yellow;
+
+}
 
 @media screen and (max-width: 768px), screen and (max-width: 575px) {
   .row {
