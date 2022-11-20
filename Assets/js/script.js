@@ -4,7 +4,7 @@ var timeBlock = $(".time-block");
 var currentTime = $("#currentTime")
 
 // current day
-currentDay.text(moment().format("dddd MMMM Do YYYY"));
+currentDay.text(moment().format("MMMM Do YYYY"));
 
 //current time
 currentTime.text(moment().format("HH:mm:ss"));
@@ -25,12 +25,18 @@ function blockColor() {
   });
 }
 
+
 // saves to local storage
 saveButton.on("click", function () {
   var time = $(this).siblings(".hour").text();
   var plan = $(this).siblings(".plan").val();
   localStorage.setItem(time, plan);
 });
+
+
+// saveButton.onclick(function () {
+
+// })
 
 function planner() {
   $(".hour").each(function () {
@@ -45,3 +51,4 @@ function planner() {
 
 blockColor();
 planner();
+
