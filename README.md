@@ -22,7 +22,15 @@ In this task, I created a simple calendar application that allows users to save 
 - BOOTSTRAP
 ```
 
-The following animation demonstrates the application functionality:
+The following screenshots demonstrate the applications functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](Assets/images/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](Assets/images/Screenshot%202022-11-20%20at%2009.30.42.png)
+
+![A user clicks on slots on the color-coded calendar and edits the events.](Assets/images/Screenshot%202022-11-20%20at%2009.34.34.png)
+
+![A user clicks on slots on the color-coded calendar and edits the events.](Assets/images/Screenshot%202022-11-20%20at%2009.35.03.png)
+
+![A user clicks on slots on the color-coded calendar and edits the events.](Assets/images/Screenshot%202022-11-20%20at%2009.36.00.png)
+
+
 
