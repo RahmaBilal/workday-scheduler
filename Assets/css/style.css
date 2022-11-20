@@ -103,14 +103,14 @@ h1 {
 }
 
 
-.time23pm {
+/* .time23pm {
   text-align: center;
   border-radius: 15px solid;
   border: #000000 solid;
   flex-wrap: wrap;
   background-color: yellow;
 
-}
+} */
 
 @media screen and (max-width: 768px), screen and (max-width: 575px) {
   .row {

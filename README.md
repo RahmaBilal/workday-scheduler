@@ -33,4 +33,8 @@ The following screenshots demonstrate the applications functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](Assets/images/Screenshot%202022-11-20%20at%2009.36.00.png)
 
 
+Deployed URL:
+file:///Users/Samantha/coding-bootcamp-june/instructor/workday_scheduler/workday-scheduler/index.html
 
+Github URL:
+https://github.com/RahmaBilal/workday-scheduler
