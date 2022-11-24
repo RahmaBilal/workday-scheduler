@@ -37,7 +37,7 @@ The following screenshots demonstrate the applications functionality:
 
 
 Deployed URL:
-file:///Users/Samantha/coding-bootcamp-june/instructor/workday_scheduler/workday-scheduler/index.html
+https://rahmabilal.github.io/workday-scheduler/
 
 Github URL:
 https://github.com/RahmaBilal/workday-scheduler
